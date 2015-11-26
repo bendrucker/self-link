@@ -1,0 +1,35 @@
+{
+  "name": "self-link",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Generate a link to a path on the running web application",
+  "license": "MIT",
+  "repository": "bendrucker/self-link",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "web",
+    "link",
+    "page",
+    "self",
+    "url"
+  ],
+  "devDependencies": {
+    "proxyquire": "~1.7.3",
+    "standard": "^5.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "global": "~4.3.0",
+    "url-join": "0.0.1"
+  }
+}
