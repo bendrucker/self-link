@@ -1,7 +1,7 @@
 {
   "name": "self-link",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generate a link to a path on the running web application",
   "license": "MIT",
   "repository": "bendrucker/self-link",
