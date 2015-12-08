@@ -15,7 +15,7 @@ test('browser', function (t) {
   var link = proxyquire('./', {
     'global/document': {
       location: {
-        protocol: 'https',
+        protocol: 'https:',
         host: 'www.example.com'
       }
     }
