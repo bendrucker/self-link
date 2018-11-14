@@ -5,7 +5,7 @@ var join = require('url-join')
 
 var base = location
   ? [location.protocol, '//', location.host].join('')
-  : ''
+  : '/'
 
 module.exports = selfLink
 

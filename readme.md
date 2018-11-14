@@ -1,4 +1,4 @@
-# self-link [![Build Status](https://travis-ci.org/bendrucker/self-link.svg?branch=master)](https://travis-ci.org/bendrucker/self-link)
+# self-link [![Build Status](https://travis-ci.org/bendrucker/self-link.svg?branch=master)](https://travis-ci.org/bendrucker/self-link) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/self-link.svg)](https://greenkeeper.io/)
 
 > Generate a link to a path on the running web application
 
