@@ -30,6 +30,6 @@
   ],
   "dependencies": {
     "global": "~4.3.0",
-    "url-join": "4.0.0"
+    "url-join": "~4.0.0"
   }
 }
